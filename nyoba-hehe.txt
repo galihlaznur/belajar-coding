@@ -9,3 +9,5 @@ Belajar nge push
 Nyoba git gui
 
 Nah sekarang lagi pake gitkraken
+
+Penambahan line
