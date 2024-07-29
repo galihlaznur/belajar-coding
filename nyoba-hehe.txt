@@ -3,3 +3,5 @@ Mencoba explore github aja sih ceritanya
 Belajar edit file
 
 Nyoba nge pull
+
+Belajar nge push
